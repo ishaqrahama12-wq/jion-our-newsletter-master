@@ -1,0 +1,27 @@
+.box{
+	text-align: center;
+}
+.box-1{
+	text-align: center;
+	border: 1px white solid;
+	border-radius: 8px;
+	height: 200px;
+	margin: auto;
+	width: 400px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+.box-2{
+	background-color: ghostwhite;
+	border: 1px ghostwhite solid;
+	border-radius: 8px;
+	margin: auto;
+	width: 300px;
+}
+.box-3{
+	background-color: blue;
+	color: white;
+	border: 1px blue solid;
+	border-radius: 8px;
+	margin: auto;
+	width: 300px;
+}
